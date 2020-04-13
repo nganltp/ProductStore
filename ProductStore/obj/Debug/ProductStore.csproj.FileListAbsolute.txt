@@ -1,0 +1,4 @@
+C:\Users\nganltp\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+C:\Users\nganltp\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+C:\Users\nganltp\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.cache
+C:\Users\nganltp\source\repos\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
